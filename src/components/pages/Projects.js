@@ -14,7 +14,22 @@ export default function Projects() {
       link:"https://apal96.github.io/magnificent-music-search",
       image:"https://raw.githubusercontent.com/apal96/alishaPortfolio/main/images/musicsearch.png",
 
-    }
+    },
+    {
+      title:"Password Generator",
+      description:"Random Password Generator",
+      link:"https://apal96.github.io/password-generator/",
+      image:"https://github.com/apal96/alishaPortfolio/blob/main/images/password.png?raw=true",
+
+    },
+    {
+      title:"Weather App",
+      description:"Lookup local weather an forecast for the next 5 days",
+      link:"https://apal96.github.io/weather-dashboard/",
+      image:"https://raw.githubusercontent.com/apal96/weather-dashboard/main/Screen%20Shot%202021-07-06%20at%2010.57.03%20PM.png",
+
+    },
+
   ];
 
   return (

@@ -1,0 +1,16 @@
+header{
+    justify-content: center;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    margin: 10; 
+    padding: 10;
+    display: block;
+    /* identical to box height */
+    color: #C4C4C4;
+    background-color: rgba(204, 234, 244, 0.708);
+    
+    }

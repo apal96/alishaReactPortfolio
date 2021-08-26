@@ -1,0 +1,28 @@
+.nav-tabs{
+    background-color: rgba(204, 234, 244, 0.708);
+
+  
+}
+a.nav-link{
+    color: #1C924B;
+
+}
+ul.nav.nav-tabs{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.nav-item{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+}
