@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alishaReactPortfolio/static/css/main.e7b328dd.chunk.css",
+    "main.js": "/alishaReactPortfolio/static/js/main.fe99b690.chunk.js",
+    "main.js.map": "/alishaReactPortfolio/static/js/main.fe99b690.chunk.js.map",
+    "runtime-main.js": "/alishaReactPortfolio/static/js/runtime-main.0e721de4.js",
+    "runtime-main.js.map": "/alishaReactPortfolio/static/js/runtime-main.0e721de4.js.map",
+    "static/css/2.818011ed.chunk.css": "/alishaReactPortfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.fd6d6ae6.chunk.js": "/alishaReactPortfolio/static/js/2.fd6d6ae6.chunk.js",
+    "static/js/2.fd6d6ae6.chunk.js.map": "/alishaReactPortfolio/static/js/2.fd6d6ae6.chunk.js.map",
+    "index.html": "/alishaReactPortfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/alishaReactPortfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.e7b328dd.chunk.css.map": "/alishaReactPortfolio/static/css/main.e7b328dd.chunk.css.map",
+    "static/js/2.fd6d6ae6.chunk.js.LICENSE.txt": "/alishaReactPortfolio/static/js/2.fd6d6ae6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e721de4.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.fd6d6ae6.chunk.js",
+    "static/css/main.e7b328dd.chunk.css",
+    "static/js/main.fe99b690.chunk.js"
+  ]
+}
