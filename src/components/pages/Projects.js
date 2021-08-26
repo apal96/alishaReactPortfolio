@@ -22,7 +22,7 @@ export default function Projects() {
       <h1>Projects Page</h1>
 
       {projects.map((project) => (
-        <a href={project.link} key={project.image} className="image" >
+        <a href={project.link} target="_blank" rel="noreferrer" key={project.image} className="image"  >
           <div>
             <img
               alt=" Homepage"
