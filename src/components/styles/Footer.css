@@ -1,0 +1,18 @@
+footer{
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    background-color: rgba(204, 234, 244, 0.708);
+    padding: 1%;
+    /* color: #C4C4C4; */
+} 
+a#github.nav-link {
+    color:#C4C4C4;
+}
+a#linked-in.nav-link{
+    color:#C4C4C4;
+}
