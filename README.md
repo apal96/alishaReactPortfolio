@@ -38,7 +38,7 @@ npm start
 ## Deployed Link
 
 * [See Live Site]( https://apal96.github.io/alishaReactPortfolio/)
-
+![Deployed Website](https://github.com/apal96/alishaReactPortfolio/blob/main/public/portfolio.png?raw=true)
 
 ## Authors
 
