@@ -5,6 +5,7 @@ import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import Header from './Header';
 import Footer from './Footer';
+import '../components/styles/PageTop.css';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -26,7 +27,7 @@ export default function PortfolioContainer() {
 
   return (
     <div>
-      <div>
+      <div className ="page-top">
       <Header/>
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       </div>
