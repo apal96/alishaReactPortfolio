@@ -22,7 +22,7 @@ export default function About() {
     </div>
      <div class="row justify-content-center">
     <div class="col-4">
-      <p>I am currently enrolled in UC Berkerley</p>
+      <p>I am currently enrolled in the UC Berkerley Full Stack Coding Bootcamp. </p>
     </div>
      </div>
 

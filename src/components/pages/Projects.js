@@ -34,7 +34,7 @@ export default function Projects() {
 
   return (
     <div>
-      <h1>Projects Page</h1>
+      <p>Take a look at my projects</p>
 
       {projects.map((project) => (
         <a href={project.link} target="_blank" rel="noreferrer" key={project.image} className="image"  >
