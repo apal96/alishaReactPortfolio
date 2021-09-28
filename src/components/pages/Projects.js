@@ -1,4 +1,5 @@
 import React from "react";
+import {useState} from "react";
 export default function Projects() {
   const projects = [
     {
@@ -31,7 +32,12 @@ export default function Projects() {
     },
 
   ];
-
+  const [hoverState, setHoverState] = useState(false);
+  function onClick(hoverState){
+    setHoverState(hoverState);
+    console.log("STATE WORKS!!!!!!!!!!!");
+    
+  }
   return (
     <div>
       <p>Take a look at my projects</p>
@@ -39,7 +45,7 @@ export default function Projects() {
       {projects.map((project) => (
         <a href={project.link} target="_blank" rel="noreferrer" key={project.image} className="image"  >
           <div>
-            <img
+            <img  onMouseEnter={() => onClick(true)} 
               alt=" Homepage"
               src={project.image}
               width="400px"
